@@ -2,8 +2,8 @@
 
 ## Review Papers
 
-1. Visual question answering: Datasets, algorithms, and future challenges, Computer Vision and Image Understanding  2017. [<a href="https://www.aclweb.org/anthology/C16-1170.pdf">PDF</a>]
-2. Visual Question Answering: A Survey of Methods and Datasets, arXiv 2017. [<a href="https://www.aclweb.org/anthology/C16-1170.pdf">PDF</a>]
+1. Visual question answering: Datasets, algorithms, and future challenges, Computer Vision and Image Understanding  2017. [<a href="https://arxiv.org/pdf/1610.01465.pdf">PDF</a>]
+2. Visual Question Answering: A Survey of Methods and Datasets, arXiv 2017. [<a href="https://arxiv.org/pdf/1607.05910.pdf">PDF</a>]
 3. A Survey on VQA: Datasets and Approaches, arXiv 2021. [<a href="https://arxiv.org/pdf/2105.00421.pdf">PDF</a>]
 
 ## Knowledge-based VQA
